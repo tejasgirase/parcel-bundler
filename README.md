@@ -1,6 +1,6 @@
-#Parcel Demo Web Applicatin builder.
+##Parcel Demo Web Applicatin builder.
 
-#Install 
+##Install 
 
 `yarn global add parcel-bundler`
 
